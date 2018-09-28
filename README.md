@@ -149,15 +149,15 @@ df_ksic.head(10)
 중분류(2자리)~세세분류까지(5자리) 코드인데 뒤쪽에 0으로 채워서 사용하는 경우가 더 편리한 경우가 있다. 다음과 같이 pad 하여 사용할 수 있다.
 
 ```python
-df_ksic['코드'] = df_ksic['코드'].str.pad(width=5, side='right', fillchar='0')
+df_ksic['Industy_code'] = df_ksic['Industy_code'].str.pad(width=5, side='right', fillchar='0')
 df_ksic.head(10)
 ```
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>코드</th>
-      <th>항목</th>
+      <th>Industy_code</th>
+      <th>Industy_name</th>
     </tr>
   </thead>
   <tbody>
