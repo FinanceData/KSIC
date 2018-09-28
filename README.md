@@ -36,8 +36,8 @@ df_ksic.head(10)
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>코드</th>
-      <th>항목</th>
+      <th>Industy_code</th>
+      <th>Industy_name</th>
     </tr>
   </thead>
   <tbody>
@@ -91,8 +91,59 @@ df_ksic.head(10)
       <td>01131</td>
       <td>과실작물 재배업</td>
     </tr>
+    <tr>
+      <th>10</th>
+      <td>01132</td>
+      <td>음료용 및 향신용 작물 재배업</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>0114</td>
+      <td>기타 작물 재배업</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>01140</td>
+      <td>기타 작물 재배업</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>0115</td>
+      <td>시설작물 재배업</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>01151</td>
+      <td>콩나물 재배업</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>01152</td>
+      <td>채소, 화훼 및 과실작물 시설 재배업</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>01159</td>
+      <td>기타 시설작물 재배업</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>012</td>
+      <td>축산업</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>0121</td>
+      <td>소 사육업</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>01211</td>
+      <td>젖소 사육업</td>
+    </tr>
   </tbody>
 </table>
+
 
 ### 코드 패딩
 중분류(2자리)~세세분류까지(5자리) 코드인데 뒤쪽에 0으로 채워서 사용하는 경우가 더 편리한 경우가 있다. 다음과 같이 pad 하여 사용할 수 있다.
