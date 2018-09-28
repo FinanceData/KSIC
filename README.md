@@ -1,13 +1,10 @@
-# Brief Introductions
+# Introductions
 KSIC (Korea Standard Industry Code) dataset and how to use (in Python)
-
 
 # KSIC 한국표준산업분류 데이터셋
 KSIC (Korea Standard Industry Code), 한국표준산업분류
 
-생산단위(사업체단위, 기업체단위 등)가 주로 수행하는 산업 활동을 그 유사성에 따라 체계적으로 유형화한 표준 코드이다.
-
-코드는 대분류(알파벳 1자리), 중분류(2자리), 소분류(3자리), 세분류(4자리), 세세분류(5자리) 종류가 있다.
+생산단위(사업체단위, 기업체단위 등)가 주로 수행하는 산업 활동을 그 유사성에 따라 체계적으로 유형화한 표준 코드이다. 코드는 대분류(알파벳 1자리), 중분류(2자리), 소분류(3자리), 세분류(4자리), 세세분류(5자리) 종류가 있다.
 
 통계청 한국표준산업분류코드(KSIC)
 * http://kssc.kostat.go.kr/ksscNew_web/link.do?gubun=001#
