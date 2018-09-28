@@ -13,12 +13,12 @@ KSIC (Korea Standard Industry Code), 한국표준산업분류
 * http://kssc.kostat.go.kr/ksscNew_web/kssc/common/ClassificationContent.do?gubun=1&strCategoryNameCode=001
 
 (2018년 9월 현재) 9차 개정안이 주로 사용되고 있다(전자공시 등)
-* 9차 개정(2008년) - 항목수 1,931개
-* 10차 개정(2017년) - 항목수 2,000개
+* KSIC 9차 개정(2008년) - 항목수 1,931개
+* KSIC 10차 개정(2017년) - 항목수 2,000개
 
 ## 데이터 파일
-* 9차 https://github.com/FinanceData/KSIC/raw/master/KSIC_09.csv.gz
-* 10차 https://github.com/FinanceData/KSIC/raw/master/KSIC_10.csv.gz
+* KSIC 9차 https://github.com/FinanceData/KSIC/raw/master/KSIC_09.csv.gz
+* KSIC 10차 https://github.com/FinanceData/KSIC/raw/master/KSIC_10.csv.gz
 
 
 ## 사용법
