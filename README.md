@@ -1,5 +1,5 @@
 # Introductions
-KSIC (Korea Standard Industry Code) dataset and how to use (in Python)
+KSIC (Korea Standard Industry Code) dataset and using in Python.
 
 # KSIC 한국표준산업분류 데이터셋
 KSIC (Korea Standard Industry Code), 한국표준산업분류
@@ -215,4 +215,4 @@ df_ksic.head(10)
 </table>
 
 
-##### FinanceData.KR
+##### 2018 FinanceData.KR
