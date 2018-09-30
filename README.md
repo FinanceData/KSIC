@@ -16,12 +16,17 @@ KSIC (Korea Standard Industry Code), 한국표준산업분류
 * KSIC 9차 개정(2008년) - 항목수 1,931개
 * KSIC 10차 개정(2017년) - 항목수 2,000개
 
-## 데이터 파일
-* KSIC 9차 https://github.com/FinanceData/KSIC/raw/master/KSIC_09.csv.gz
-* KSIC 10차 https://github.com/FinanceData/KSIC/raw/master/KSIC_10.csv.gz
+## Dataset
+KSIC 9차 https://github.com/FinanceData/KSIC/raw/master/KSIC_09.csv.gz
+* 1,931 rows
+* 2 columns
+
+KSIC 10차 https://github.com/FinanceData/KSIC/raw/master/KSIC_10.csv.gz
+* 2,000 rows
+* 2 columns
 
 
-## 사용법
+## Usage
 
 ```python
 import pandas as pd
